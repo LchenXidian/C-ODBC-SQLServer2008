@@ -48,7 +48,6 @@ SQL Server 2008默认不允许远程连接，需要在数据库安装端做一�
 ![image](https://github.com/LchenXidian/C-ODBC-SQLServer2008/blob/master/images/26.png)
 
 5.编程测试
-
 #define  _CRT_SECURE_NO_WARNINGS  
 #pragma once  
 #include<iostream>   
@@ -130,4 +129,3 @@ int main(){
 	system("pause");  
 	return 0;  
 }  
-
