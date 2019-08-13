@@ -1,0 +1,2 @@
+# C-ODBC-SQLServer2008
+C++使用ODBC连接远程SQL Server 2008 R2
