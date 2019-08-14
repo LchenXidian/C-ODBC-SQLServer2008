@@ -1,5 +1,6 @@
 # C-ODBC-SQLServer2008
-C++使用ODBC连接远程SQL Server 2008 R2
+
+C++通过ODBC连接局域网另一台主机的SQL Server 2008 R2
 
 SQL Server 2008默认不允许远程连接，需要在数据库安装端做一些配置。
 
